@@ -25,7 +25,7 @@ An [Ego UI tool](https://github.com/overture-stack/ego-ui) was also developed to
 > <img align="left" src="ov-logo.png" height="90" hspace="0"/>
 > </div>
 > 
-> Ego is a vital service within the [Overture](https://www.overture.bio/) research software ecosystem. With our genomics data management solutions, scientists can significantly improve the lifecycle of their data and the quality of their research. See our [related products](#related-products) for more information on what Overture can offer.
+> *Ego is a vital service within the [Overture](https://www.overture.bio/) research software ecosystem. With our genomics data management solutions, scientists can significantly improve the lifecycle of their data and the quality of their research. See our [related products](#related-products) for more information on what Overture can offer.*
 > 
 > 
 
