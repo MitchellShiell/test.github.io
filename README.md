@@ -13,8 +13,8 @@
 <img align="right" width="66vw" vspace="5" src="icon-ego.png" alt="ego-logo" hspace="30"/>
 </div>
 
-Sensitive data demands secure methods for authenticating users and authorizing the information and applications they can access. [Ego](https://www.overture.bio/products/ego/) addresses this issue by facilitating user registration and providing a secure permission management system. 
-An [Ego UI tool](https://github.com/overture-stack/ego-ui) was also developed to make registration and permission management accessible to all collaborators.
+Biomedical data requires secure methods for authenticating users and authorizing the information and applications users can access. [Ego](https://www.overture.bio/products/ego/) addresses this issue by facilitating user registration and providing a secure permission management system. 
+An [Ego UI tool](https://github.com/overture-stack/ego-ui) was also developed to make these services accessible to all collaborators.
 
 <!--Blockqoute-->
 
