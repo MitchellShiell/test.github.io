@@ -20,7 +20,7 @@ An [Ego UI tool](https://github.com/overture-stack/ego-ui) was also developed to
 
 </br>
 
-> </br>
+> 
 > <div>
 > <img align="left" src="ov-logo.png" height="85" hspace="0"/>
 > </div>
