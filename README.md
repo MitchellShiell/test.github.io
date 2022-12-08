@@ -89,7 +89,7 @@ docker exec ego-postgres-1  psql -h localhost -p 5432 -U postgres -d ego --comma
 ## Related Products 
 
 <div>
-  <img align="right" alt="Overture overview" src="https://www.overture.bio/static/124ca0fede460933c64fe4e50465b235/a6d66/system-diagram.png" width="33%" hspace="10">
+  <img align="right" alt="Overture overview" src="https://www.overture.bio/static/124ca0fede460933c64fe4e50465b235/a6d66/system-diagram.png" width="40%" hspace="10">
 </div>
 
 Overture is an ecosystem of research software tools, each with narrow responsibilities, designed to address the adapting needs of genomics research. 
