@@ -27,7 +27,7 @@ An [Ego UI tool](https://github.com/overture-stack/ego-ui) was also developed to
 > 
 > Ego is a key service within the [Overture](https://www.overture.bio/) genomics research software ecosystem. With our genomic data management solutions, researchers can significantly improve the lifecycle of their data and the quality of their research. See our [related products](#related-products) for more information on what Overture offers.
 > 
-> </br>
+> 
 
 <!--Blockqoute-->
 
