@@ -23,18 +23,14 @@ Access to sensitive and valuable information requires complex and secure methods
 - Scalable with [JSON Web Tokens (JWT)](https://jwt.io/)
 - For more information visit our [wiki](https://www.overture.bio/documentation/ego/)
 
-</br>
-
 > </br>
 > <div>
-> <img align="left" src="ov-logo.png" height="100" vspace="20" hspace="30"/>
+> <img align="left" src="ov-logo.png" height="100" hspace="20"/>
 > </div>
 > 
 > Ego is a key service within the [Overture](https://www.overture.bio/) genomics research software ecosystem. Genomic data can be overwhelming to manage, and scientists don’t have the time or resources for automation. With our genomic data management solutions, researchers can significantly improve the lifecycle of their data and the quality of their publications. See our [Related Products](#related-products) for more information on what Overture offers.
 >
 > </br>
-
-</br>
 
 ## Documentation
 
