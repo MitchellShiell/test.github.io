@@ -1,5 +1,3 @@
-<!--Ego ReadMe Draft 2-->
-
 # Ego - Authentication and Authorization Microservice
 
 [<img hspace="5" src="https://img.shields.io/docker/pulls/overture/ego?style=for-the-badge">](#docker-setup)
@@ -7,10 +5,8 @@
 [<img hspace="5" src="https://img.shields.io/badge/License-gpl--v3.0-blue?style=for-the-badge">](https://github.com/overture-stack/ego/blob/develop/LICENSE)
 [<img hspace="5" src="https://img.shields.io/badge/Code%20of%20Conduct-2.1-blue?style=for-the-badge">](code_of_conduct.md)
 
-<!-- Replace slack with discourse once setup -->
-
 <div>
-<img align="right" width="66vw" vspace="5" src="icon-ego.png" alt="ego-logo" hspace="30"/>
+<img align="right" width="66vw" vspace="5" src="icon-ego.png" alt="ego-logo" space="20" hspace="30"/>
 </div>
 
 Biomedical data requires secure protocols for authenticating users and authorizing the information and applications those users can access. [Ego](https://www.overture.bio/products/ego/) addresses this by facilitating user registration and providing a secure permission management system. 
@@ -28,8 +24,6 @@ An [Ego UI tool](https://github.com/overture-stack/ego-ui) was also developed to
 > *Ego is a vital service within the [Overture](https://www.overture.bio/) research software ecosystem. With our genomics data management solutions, scientists can significantly improve the lifecycle of their data and the quality of their research. See our [related products](#related-products) for more information on what Overture can offer.*
 > 
 > 
-
-
 
 <!--Blockqoute-->
 
