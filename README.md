@@ -48,7 +48,7 @@ An [Ego UI tool](https://github.com/overture-stack/ego-ui) was also developed to
 - For our user installation guide see our website [here](https://www.overture.bio/documentation/ego/installation/)
 - For administrative guidance see our website [here](https://www.overture.bio/documentation/ego/user-guide/admin-ui/)
 
-## Developer Setup
+## Docker Setup
 
 This is a step-by-step guide for setting up a dockerized version of Ego.
 
