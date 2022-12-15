@@ -8,11 +8,9 @@
 <img align="right" width="85vw" src="icon-score.png" alt="ego-logo" hspace="30"/>
 </div>
 
-Advances in next-generation sequencing have drastically increased the velocity and volume of genomic data. This has outpaced on-premise computing and storage capacities and propelled researchers to the cloud. Score is a data transfer service that handles genomic data payloads across geographically distributed cloud storage solutions.
+Advances in next-generation sequencing have drastically increased the velocity and volume of genomic data. This has outpaced on-premise computing and storage capacities propelling researchers to the cloud. Score is a data transfer service that handles genomic data payloads across geographically distributed cloud storage solutions.
 
-Score commonly works in tandem with our metadata service, [Song](https://github.com/overture-stack/SONG). As Score facilitates object storage in the cloud, Song runs in parallel to validate, assign identifiers, track, and manage the publication and access of genomic and associated metadata.
-
-Score is used in various initiatives, including the [Cancer Genome Collaboratory](https://cancercollaboratory.org/), which employs Score and [Song](#related-products) to manage nearly 1 petabyte of raw and analyzed data (121,000 files).
+Score commonly works in tandem with our metadata service, [Song](https://github.com/overture-stack/SONG). As Score facilitates object storage in the cloud, Song runs in parallel to validate, assign identifiers, track, and manage the publication and access of genomic and associated metadata. 
 
 <!--Blockqoute-->
 
@@ -32,12 +30,13 @@ Score is used in various initiatives, including the [Cancer Genome Collaboratory
 ## Technical Specifications
 
 - Written in JAVA 
-- Supports AWS S3 & S3 compliant storage, Azure Storage, Google Cloud Storage, Openstack with Ceph and Minio
-- Built-in [Samtools](http://www.htslib.org/) functionality such as slicing of BAM and CRAM files by genomic region 
-- Multipart Uploads and Downloads
-- [MD5sum](https://www.intel.com/content/www/us/en/support/programmable/articles/000078103.html) validation
+- Supports AWS S3, Azure, Google Cloud, Openstack with Ceph, Minio and all other S3-compliant cloud storage solutions
+- Built-in [Samtools](http://www.htslib.org/) functionality including BAM and CRAM file slicing by genomic region 
 - ACL security using [OAuth 2.0](https://oauth.net/2/) and scopes based on study codes
+- Multipart Uploads and Downloads
 - REST API with [Swagger UI](https://swagger.io/tools/swagger-ui/)
+- [MD5sum](https://www.intel.com/content/www/us/en/support/programmable/articles/000078103.html) validation
+
 
 ## Documentation
 
