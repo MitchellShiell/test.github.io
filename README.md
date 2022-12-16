@@ -1,11 +1,11 @@
-# Song - Genomic & Biomedical Data Management Microservice
+# Song - Metadata Management Microservice
 
 [<img hspace="5" src="https://img.shields.io/badge/chat-on--slack-blue?style=for-the-badge">](http://slack.overture.bio)
 [<img hspace="5" src="https://img.shields.io/badge/License-gpl--v3.0-blue?style=for-the-badge">](https://github.com/overture-stack/score/blob/develop/LICENSE)
 [<img hspace="5" src="https://img.shields.io/badge/Code%20of%20Conduct-2.1-blue?style=for-the-badge">](code_of_conduct.md)
 
 <div>
-<img align="right" width="85vw" src="icon-song.png" alt="song-logo"/>
+<img align="right" width="85vw" src="icon-score.png" alt="song-logo"/>
 </div>
 
 In the past, genomics researchers used basic tools like spreadsheets and text files to manage metadata manually. However, advances in next-generation sequencing and precision medicine have increased the volume, velocity, and variety of genomic and biomedical data, rendering these methods error-prone and obsolete. Song automates the validation and tracking of genomic files and metadata, including any associated biomedical information. Song produces high-quality and reliable metadata by enforcing rules and structures for data uploads. Some features are tailored to genomic files, but Song can support any data type.
