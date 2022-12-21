@@ -57,7 +57,7 @@ The active management of data dictionaries is frequently required for large-scal
 
 ## Documentation
 
-- See our Developer [wiki :construction:](https://github.com/overture-stack/lectern/wiki)
+- :construction: See our Developer [wiki](https://github.com/overture-stack/lectern/wiki)
 - User installation guide *coming soon*
 - User guidance *coming soon*
 
