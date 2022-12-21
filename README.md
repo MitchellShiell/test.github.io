@@ -8,9 +8,7 @@
 <img align="right" width="120vw" src="icon-lectern.png" alt="lectern-logo"/>
 </div>
 
-A data dictionary is a collection of schemas that specify the contents of the TSV files used by researchers when submitting their data. Automated software can then validate these submissions against the JSON schemas that define the dictionary. Large-scale longitudinal studies often require the active management of data dictionaries, imposing an administrative burden involving the researchers and the research software infrastructure. 
-
-**Lectern** is a web service that simplifies dictionary management by providing a secure and efficient method to store, compare, edit, and version data dictionaries within your automated pipeline. Lectern is being developed in tandem with a [JS Lectern Client](https://github.com/overture-stack/js-lectern-client) that can perform restriction validations and data transformations based on data dictionaries retrieved from Lectern.  
+Large-scale longitudinal studies often require the active management of data dictionaries, imposing an administrative burden between researchers and research software. **Lectern** is a web service that simplifies dictionary management by providing a secure and efficient method to store, compare, edit, and version data dictionaries within your automated pipeline. Lectern is being developed in tandem with a [JS Lectern Client](https://github.com/overture-stack/js-lectern-client) that can perform restriction validations and data transformations based on data dictionaries retrieved from Lectern.  
 
 <!--Blockqoute-->
 
