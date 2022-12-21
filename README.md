@@ -27,6 +27,8 @@ A data dictionary is a collection of schemas that specify the contents of the TS
 
 <!--Blockqoute-->
 
+</br>
+
 ## Technical Specifications
 
 - Node.js 13.14+
