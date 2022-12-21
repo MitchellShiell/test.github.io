@@ -8,7 +8,7 @@
 <img align="right" width="120vw" src="icon-lectern.png" alt="lectern-logo"/>
 </div>
 
-Large-scale longitudinal studies often require the active management of data dictionaries, imposing an administrative burden between researchers and research software. **Lectern** is a web service that simplifies dictionary management by providing a secure and efficient method to store, compare, edit, and version data dictionaries within your automated pipeline. Lectern is being developed in tandem with a [JS Lectern Client](https://github.com/overture-stack/js-lectern-client) that can perform restriction validations and data transformations based on data dictionaries retrieved from Lectern.  
+The active management of data dictionaries is frequently required for large-scale longitudinal studies, adding to the administrative burden between researchers and research software. **Lectern** is a web service that simplifies dictionary management by providing a secure and efficient method to store, compare, edit, and version data dictionaries within your automated pipeline. Lectern is being developed in tandem with a [JS Lectern Client](https://github.com/overture-stack/js-lectern-client) that can perform restriction validations and data transformations based on data dictionaries retrieved from Lectern.  
 
 <!--Blockqoute-->
 
