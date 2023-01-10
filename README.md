@@ -5,7 +5,7 @@
 [<img hspace="5" src="https://img.shields.io/badge/Code%20of%20Conduct-2.1-blue?style=for-the-badge">](code_of_conduct.md)
 
 <div>
-<img align="right" width="66vw" vspace="5" src="icon-ego.png" alt="ego-logo" hspace="30"/>
+<img align="right" width="44vw" src="icon-ego.png" alt="ego-logo" hspace="30"/>
 </div>
 
 A UI for managing user privileges that natively interacts with our Ego authentication and authorization microservice.
