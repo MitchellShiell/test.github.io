@@ -16,7 +16,7 @@ A UI for managing user privileges that natively interacts with our Ego authentic
 
 > 
 > <div>
-> <img align="left" src="ov-logo.png" height="90" hspace="0"/>
+> <img align="left" src="ov-logo.png" height="60" hspace="0"/>
 > </div>
 > 
 > *Ego-UI is a vital service within the [Overture](https://www.overture.bio/) research software ecosystem. With our genomics data management solutions, scientists can significantly improve the lifecycle of their data and the quality of their research. See our [related products](#related-products) for more information on what Overture can offer.*
